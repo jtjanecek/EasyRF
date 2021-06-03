@@ -20,3 +20,8 @@ optional arguments:
 '''
 
 Make sure that you have only numbers in your data input csv
+
+# Example
+```
+python rf.py --id test --data data.csv --outcome Class --cv 10 --ntrees 500
+```
