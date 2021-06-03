@@ -5,7 +5,7 @@ pip install -r requirements.txt
 
 
 # Usage
-'''
+```
 usage: rf.py [-h] --id ID --data DATA --outcome OUTCOME --cv CV --ntrees NTREES
 
 Run the RF
@@ -17,7 +17,7 @@ optional arguments:
   --outcome OUTCOME  The outcome variable
   --cv CV            Number of cross validation iterations
   --ntrees NTREES    Number of trees for the RF
-'''
+```
 
 Make sure that you have only numbers in your data input csv
 
